@@ -1,0 +1,7 @@
+{
+    "name": "Vincent/endlessrap",
+    "require": {
+    	"guzzle/guzzle": "3.8.*@dev",
+    	"slim/slim": "dev-develop"
+    }
+}
